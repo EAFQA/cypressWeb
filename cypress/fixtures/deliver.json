@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Eduardo Andrade",
+        "cpf": "00000026620",
+        "email": "eaf.florencio@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "37136180",
+            "street": "Rua João de Souza Sobrinho",
+            "number": "1000",
+            "details": "casa",
+            "district": "Jardim América I",
+            "city_state": "Alfenas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalido": {
+        "name": "Eduardo Andrade Teste",
+        "cpf": "000000266AA",
+        "email": "eaf@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "37136180",
+            "street": "Rua João de Souza Sobrinho",
+            "number": "1000",
+            "details": "casa",
+            "district": "Jardim América I",
+            "city_state": "Alfenas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalido": {
+        "name": "Eduardo Andrade",
+        "cpf": "00000026620",
+        "email": "eaf.florencio.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "37136180",
+            "street": "Rua João de Souza Sobrinho",
+            "number": "1000",
+            "details": "casa",
+            "district": "Jardim América I",
+            "city_state": "Alfenas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
